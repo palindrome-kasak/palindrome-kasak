@@ -1,6 +1,6 @@
 ![palindrome-kasak's-cover](./cover.png)
 
-## 🧔 About Me
+## 👩‍💻 About Me
 
 - 🔭 I’m currently working on [here 2 help](https://github.com/Here2help-community/h2H)
 

@@ -14,7 +14,11 @@
 
 ## 📚 My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palindrome-kasak&layout=compact&show_icons=true&theme=dark)](https://github.com/Jaagrav/Jaagrav)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kastrahl&theme=dark &&layout=compact" width="400px" align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=palindrome-kasak&layout=compact&show_icons=true&theme=dark" width="400px" align="right">
+<br>
+<hr>
+<br>
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

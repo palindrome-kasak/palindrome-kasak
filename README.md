@@ -14,8 +14,9 @@
 
 ## 📚 My Skills
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kastrahl&theme=dark &&layout=compact" width="400px" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=palindrome-kasak&layout=compact&show_icons=true&theme=dark" width="400px" align="right">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palindrome-kasak&layout=compact&show_icons=true&theme=dark)](https://github.com/Jaagrav/Jaagrav)
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=palindrome-kasak&layout=compact&show_icons=true&theme=dark">]
 <br>
 <hr>
 <br>

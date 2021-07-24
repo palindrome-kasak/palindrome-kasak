@@ -2,11 +2,12 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 I’m currently working on [here 2 help](https://github.com/Here2help-community/h2H)
+- 🔭 I’m currently working on [Creed](https://github.com/Creed-Comapny)
+- 🔭 I’ve worked with [here 2 help](https://github.com/Here2help-community/h2H) , [Contango](https://github.com/ContangoBoard).
 
 - 🌱 I’m currently learning **React, DataStructure, JavaScript**
 
-- 👯 I’m looking to collaborate on **ReactNative/javascript Projects**
+- 👯 I’m looking to collaborate on **ReactJs/ReactNative/javascript Projects**
 
 - 📫 Contact me **here(kasakgupta2051@gmail.com)**
 

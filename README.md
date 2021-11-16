@@ -2,8 +2,8 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 I’m currently working on [Creed](https://github.com/Creed-Comapny)
-- 🔭 I’ve worked with [here 2 help](https://github.com/Here2help-community/h2H) , [Contango](https://github.com/ContangoBoard).
+<!-- - 🔭 I’m currently looking for  -->
+- 🔭 I’ve worked with [here 2 help](https://github.com/Here2help-community/h2H) , [Contango](https://github.com/ContangoBoard) , [Creed](https://github.com/Creed-Comapny).
 
 - 🌱 I’m currently learning **React, DataStructure, JavaScript**
 
